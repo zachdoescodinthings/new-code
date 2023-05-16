@@ -1,7 +1,7 @@
 function myMainFunction() {
   let myWelcomeMessage = "Hello, world!";
   console.log(myWelcomeMessage);
-
+ 
   let myPersonObject = {
     myPersonName: "Alice",
     myPersonAge: 30,
